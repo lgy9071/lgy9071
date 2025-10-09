@@ -57,3 +57,11 @@ Spring Boot와 Flutter를 중심으로 **웹과 앱을 아우르는 통합 서�
 ---
 
 _“코드는 기술이 아니라 경험을 담는 그릇이라고 생각합니다.”_
+
+---
+
+### 📫 Contact & Info
+🏠 **Busan, South Korea**  
+✉️ **lgy990711@naver.com**  
+🔗 [**Notion Portfolio**](https://www.notion.so/BNK-27e41c8f0e8a80bdad3ddc5d3d12e454?source=copy_link)
+
